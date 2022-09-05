@@ -6,7 +6,7 @@
 	"description"	      "Assign [insert] key to toggle action camera, enable auto target, use default key bindings."
 	"creator"		        "76561198052264326"
 	"progenitor"		    ""
-	"url"               "https://github.com/jrosco/controller-layouts-steam/xbox-one/"
+	"url"               "https://github.com/jrosco/controller-layouts-steam/tree/main/xbox-one/"
 	"export_type"		    "unknown"
 	"controller_type"		"controller_xboxone"
 	"major_revision"		"0"
