@@ -2021,6 +2021,134 @@
 	}
 	"group"
 	{
+		"id"		"92"
+		"mode"		"scrollwheel"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"scroll_clockwise"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_DOWN"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"scroll_counterclockwise"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_UP"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press SPACE, Recenter Map"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+	}
+	"group"
+	{
+		"id"		"93"
+		"mode"		"2dscroll"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+	}
+	"group"
+	{
+		"id"		"94"
+		"mode"		"hotbar"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"requires_click"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"95"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"requires_click"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"96"
+		"mode"		"four_buttons"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+	}
+	"group"
+	{
+		"id"		"97"
+		"mode"		"joystick_move"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+	}
+	"group"
+	{
 		"id"		"6"
 		"mode"		"switches"
 		"name"		""
@@ -2035,7 +2163,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press ESCAPE, Menu/Exit"
+							"binding"		"key_press ESCAPE, Exit Menu"
 						}
 					}
 					"Full_Press"
@@ -2058,7 +2186,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press INSERT, Action Camera (Toggle)"
+							"binding"		"key_press INSERT, Menu/Action Camera (Off)"
 						}
 					}
 				}
@@ -2210,7 +2338,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press ESCAPE, Menu/Exit"
+							"binding"		"key_press ESCAPE"
 						}
 					}
 				}
@@ -2226,7 +2354,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press INSERT, Action Camera (Toggle)"
+							"binding"		"key_press INSERT, Action Camera (On)"
 						}
 					}
 				}
@@ -2406,7 +2534,13 @@
 			"91"		"right_joystick active modeshift"
 			"37"		"dpad active"
 			"33"		"button_diamond active"
-			"50"		"joystick active"
+			"50"		"joystick inactive"
+			"92"		"joystick active"
+			"93"		"joystick inactive"
+			"94"		"joystick inactive"
+			"95"		"joystick inactive"
+			"96"		"joystick inactive"
+			"97"		"joystick inactive"
 			"34"		"left_trigger active"
 			"35"		"right_trigger active"
 		}
