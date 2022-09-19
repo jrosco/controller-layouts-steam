@@ -87,7 +87,7 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Interact | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Weapon Swap |  Draw / Stow Weapon | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | Heal | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Default Weapon / Trigger Ground Targeting | "" | "" |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Default Weapon Skill / Trigger Ground Targeting / Left Mouse Click | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) | "" | [Activate Professions Bar 1](#profession-bar-modifier) | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | "" | [Activate Skills Bar 1](#skill-bar-modifier) | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | "" | [Activate Professions Bar 2](#profession-bar-modifier) | "" |
@@ -101,7 +101,7 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Character Movement | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Camera Movement | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Up/Down | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players and NPCs / Target Nearest Enemy / Cancel Ground Targeting | "" | "" |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting | "" | Target Nearest/Next Enemy |
 
 ### Skills Bar No Modifier
 | Skill Bar 1 | Action | Skill Bar 2 | Action |
@@ -132,7 +132,7 @@ Pressing the ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows
 
 On the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) there is a sub-menu for your hero templates, entering this sub-menu you can rotate the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) to bring up the build templates wheel and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) will bring up the equipment templates wheel.
 
-Whenever entering menus like "Inventory" will drop you into the [Mouse Menu](#mouse-cursor-menu) actions set.
+Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [Mouse Menu](#mouse-cursor-menu) actions set.
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
@@ -183,15 +183,19 @@ Whenever entering menus like "Inventory" will drop you into the [Mouse Menu](#mo
 ## Tips and Tricks
 
 - Toggle the [Action Camera][action-camera] key ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) to enable Mouse cursor.
+- Enable `AoE Loot on Interact` and `Auto Loot Pickup`
 - Hold ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-lt-24.png) and use right joystick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to move around [Map](#map).
 - When in Inventory [Custom Menu](#custom-menus) use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-y-24.png) to send item to chat.
 - When in [Map](#map) use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-y-24.png) to send Waypoint ID to chat.
 - Click the ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) joystick middle button to cancel Ground Targeting.
+- When an NPC dialog is open use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-rt-24.png) to select the dialog.
+- To select your rewards, disable the [Action Camera][action-camera] and use the ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-rt-24.png) button and select reward, move mouse with ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png), and re-enable [Action Camera][action-camera] when done.
 
 ## Issues
 
 - Guild wars 2 can only toggle the [Action Camera][action-camera]. When game first starts you have to enable the [Action Camera][action-camera] by pressing and holding ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png)
 - Sometimes when you're in the [Map](#map) menu, it can activate the Mouse Menu action set. Press ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button to reactivate the [Map](#map) menu again.
+- Sometimes when you're in the [Map](#map) menu, it can activate the Action Camera Mode (Action Set). You'll have to exit and open [Map](#map) again.
 
 ---
 
