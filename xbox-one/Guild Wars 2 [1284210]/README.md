@@ -130,7 +130,7 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 
 Pressing the ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) key will activate the custom menus action set. Rotating the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) will bring up a Menu wheel for your game menus and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-24.png) will bring up your mounts wheel.
 
-On the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) there is a sub-menu for your hero templates, entering this sub-menu you can rotate the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) to bring up the build templates wheel and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-24.png) will bring up the equipment templates wheel.
+On the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) there is a sub-menu for your hero templates, entering this sub-menu you can rotate the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) to bring up the build templates wheel and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) will bring up the equipment templates wheel.
 
 Whenever entering menus like "Inventory" will drop you into the [Mouse Menu](#mouse-cursor-menu) actions set.
 
