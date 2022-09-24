@@ -667,8 +667,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Call Target / LT Zoom In"
-							"binding"		"key_press T, Call Target / LT Zoom In"
+							"binding"		"key_press LEFT_CONTROL, Call Target"
+							"binding"		"key_press T, Call Target"
 						}
 						"settings"
 						{
@@ -688,7 +688,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press R, AutoRun / LT Zoom Out"
+							"binding"		"key_press R, AutoRun"
 						}
 						"settings"
 						{
@@ -847,48 +847,6 @@
 		"description"		""
 		"inputs"
 		{
-			"dpad_north"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"key_press PAGE_UP, Camera Zoom In"
-						}
-						"settings"
-						{
-							"hold_repeats"		"1"
-							"repeat_rate"		"10"
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"dpad_south"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"key_press PAGE_DOWN, Camera Zoom Out"
-						}
-						"settings"
-						{
-							"hold_repeats"		"1"
-							"repeat_rate"		"10"
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
 		}
 		"settings"
 		{
