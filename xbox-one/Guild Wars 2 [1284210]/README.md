@@ -80,7 +80,7 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 
 ### Default Buttons
 
-| Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
+| Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Jump |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Dodge Roll |  |  |
@@ -102,8 +102,9 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Camera Movement |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Up/Down |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting |  | Target Nearest/Next Enemy |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Camera Zoom In |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) | Camera Zoom In |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) | Camera Zoom Out |
+
 ### Skills Bar No Modifier
 
 | Skill Bar 1 | Action | Skill Bar 2 | Action |
@@ -136,7 +137,7 @@ On the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xb
 
 Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [Mouse Menu](#mouse-cursor-menu) actions set.
 
-| Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
+| Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit Custom Menus | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
@@ -147,7 +148,7 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 
 Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button when on the Map screen.
 
-| Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
+| Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Personal Map Marker |  |  |
@@ -169,7 +170,7 @@ Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-ico
 
 ### Mouse Cursor Menu
 
-| Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
+| Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Item Dropdown Menu |  |  |
