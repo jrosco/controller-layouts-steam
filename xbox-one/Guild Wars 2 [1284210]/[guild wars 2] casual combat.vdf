@@ -823,6 +823,48 @@
 		"description"		""
 		"inputs"
 		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_UP"
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"repeat_rate"		"10"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_DOWN"
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"repeat_rate"		"10"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -4583,6 +4625,21 @@
 	}
 	"group"
 	{
+		"id"		"160"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+			"requires_click"		"0"
+		}
+	}
+	"group"
+	{
 		"id"		"6"
 		"mode"		"switches"
 		"name"		""
@@ -4646,6 +4703,17 @@
 						"bindings"
 						{
 							"binding"		"controller_action hold_layer 7 1 0, Professions Bar"
+						}
+					}
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mode_shift right_joystick 30"
+						}
+						"settings"
+						{
+							"interruptable"		"0"
 						}
 					}
 				}
@@ -4726,26 +4794,6 @@
 						"bindings"
 						{
 							"binding"		"key_press E, Use"
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"left_trigger"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mode_shift dpad 32"
-						}
-						"settings"
-						{
-							"interruptable"		"0"
 						}
 					}
 				}
@@ -5196,12 +5244,12 @@
 		"group_source_bindings"
 		{
 			"6"		"switch active"
+			"9"		"right_joystick active"
+			"11"		"right_joystick inactive modeshift"
+			"30"		"right_joystick active modeshift"
+			"31"		"right_joystick inactive modeshift"
 			"7"		"dpad active"
 			"32"		"dpad active modeshift"
-			"9"		"right_joystick active"
-			"11"		"right_joystick active modeshift"
-			"30"		"right_joystick inactive modeshift"
-			"31"		"right_joystick inactive modeshift"
 			"0"		"button_diamond active"
 			"10"		"button_diamond inactive modeshift"
 			"3"		"joystick active"
@@ -5216,12 +5264,12 @@
 		"group_source_bindings"
 		{
 			"36"		"switch active"
-			"37"		"dpad active"
-			"104"		"dpad inactive modeshift"
-			"105"		"dpad active modeshift"
 			"38"		"right_joystick inactive"
 			"39"		"right_joystick active"
 			"91"		"right_joystick active modeshift"
+			"37"		"dpad active"
+			"104"		"dpad inactive modeshift"
+			"105"		"dpad active modeshift"
 			"33"		"button_diamond active"
 			"50"		"joystick inactive"
 			"92"		"joystick inactive"
@@ -5241,8 +5289,8 @@
 		"group_source_bindings"
 		{
 			"101"		"switch active"
-			"106"		"dpad active"
 			"102"		"right_joystick active"
+			"106"		"dpad active"
 			"98"		"button_diamond inactive"
 			"103"		"joystick active"
 			"99"		"left_trigger active"
@@ -5256,10 +5304,10 @@
 		"group_source_bindings"
 		{
 			"137"		"switch active"
-			"140"		"dpad inactive"
-			"141"		"dpad active"
 			"138"		"right_joystick inactive"
 			"142"		"right_joystick active"
+			"140"		"dpad inactive"
+			"141"		"dpad active"
 			"134"		"button_diamond active"
 			"139"		"joystick inactive"
 			"143"		"joystick inactive"
@@ -5275,10 +5323,10 @@
 		"group_source_bindings"
 		{
 			"51"		"switch active"
-			"54"		"dpad active"
-			"55"		"dpad active modeshift"
 			"52"		"right_joystick active"
 			"53"		"right_joystick active modeshift"
+			"54"		"dpad active"
+			"55"		"dpad active modeshift"
 			"56"		"button_diamond active"
 			"57"		"button_diamond active modeshift"
 			"58"		"joystick active"
@@ -5293,10 +5341,10 @@
 		"group_source_bindings"
 		{
 			"61"		"switch active"
-			"64"		"dpad active"
-			"65"		"dpad active modeshift"
 			"62"		"right_joystick active"
 			"63"		"right_joystick active modeshift"
+			"64"		"dpad active"
+			"65"		"dpad active modeshift"
 			"66"		"button_diamond active"
 			"67"		"button_diamond active modeshift"
 			"68"		"joystick active"
@@ -5311,10 +5359,11 @@
 		"group_source_bindings"
 		{
 			"71"		"switch active"
+			"72"		"right_joystick inactive"
+			"73"		"right_joystick active modeshift"
+			"160"		"right_joystick inactive"
 			"74"		"dpad active"
 			"75"		"dpad active modeshift"
-			"72"		"right_joystick active"
-			"73"		"right_joystick active modeshift"
 			"76"		"button_diamond active"
 			"77"		"button_diamond active modeshift"
 			"78"		"joystick active"
@@ -5329,10 +5378,10 @@
 		"group_source_bindings"
 		{
 			"81"		"switch active"
-			"84"		"dpad active"
-			"85"		"dpad active modeshift"
 			"82"		"right_joystick active"
 			"83"		"right_joystick active modeshift"
+			"84"		"dpad active"
+			"85"		"dpad active modeshift"
 			"86"		"button_diamond active"
 			"87"		"button_diamond active modeshift"
 			"88"		"joystick active"
@@ -5347,10 +5396,10 @@
 		"group_source_bindings"
 		{
 			"107"		"switch active"
-			"108"		"dpad active"
-			"109"		"dpad active modeshift"
 			"110"		"right_joystick active"
 			"111"		"right_joystick active modeshift"
+			"108"		"dpad active"
+			"109"		"dpad active modeshift"
 			"112"		"button_diamond active"
 			"113"		"joystick active"
 			"114"		"left_trigger active"
@@ -5364,10 +5413,10 @@
 		"group_source_bindings"
 		{
 			"125"		"switch active"
-			"126"		"dpad active"
-			"127"		"dpad active modeshift"
 			"128"		"right_joystick active"
 			"129"		"right_joystick active modeshift"
+			"126"		"dpad active"
+			"127"		"dpad active modeshift"
 			"130"		"button_diamond active"
 			"131"		"joystick active"
 			"132"		"left_trigger active"
@@ -5381,8 +5430,8 @@
 		"group_source_bindings"
 		{
 			"144"		"switch active"
-			"145"		"dpad active"
 			"146"		"right_joystick active"
+			"145"		"dpad active"
 			"147"		"button_diamond active"
 			"148"		"joystick active"
 			"149"		"left_trigger active"
@@ -5396,8 +5445,8 @@
 		"group_source_bindings"
 		{
 			"151"		"switch active"
-			"152"		"dpad active"
 			"153"		"right_joystick active"
+			"152"		"dpad active"
 			"154"		"joystick active"
 			"157"		"joystick active modeshift"
 			"158"		"joystick inactive modeshift"
@@ -5409,7 +5458,7 @@
 	{
 		"left_trackpad_mode"		"0"
 		"right_trackpad_mode"		"0"
-		"action_set_trigger_cursor_show"		"0"
+		"action_set_trigger_cursor_show"		"2"
 		"action_set_trigger_cursor_hide"		"1"
 	}
 }
