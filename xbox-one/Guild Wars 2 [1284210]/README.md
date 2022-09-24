@@ -94,16 +94,19 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | "" | [Activate Skills Bar 2](#skill-bar-modifier) | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Call Target | "" | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Zoom Camera In|
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Call Target | "" | "" | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Previous Enemy | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Next Enemy | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Auto Run | "" | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Zoom Camera Out|
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Auto Run | "" | "" | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Character Movement | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Camera Movement | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Up/Down | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting | "" | Target Nearest/Next Enemy |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Camera Zoom In | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) |
 
 ### Skills Bar No Modifier
+
 | Skill Bar 1 | Action | Skill Bar 2 | Action |
 |---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Weapon Skill 1 (Default Attack) | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | Heal
@@ -143,6 +146,8 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 
 ### Map
 
+Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button
+
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) | "" | |
@@ -169,7 +174,7 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) | "" | |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Item Dropdown Menu | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Enable Map Menu (see [issues](#issues)) | "" | "" |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Enable Map Action Set (see [issues](#issues)) | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send selected item to Chat | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click | "" | "" | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click | "" | "" | "" | "" |
@@ -182,6 +187,7 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 
 ## Tips and Tricks
 
+- When you login, on the Character selection screen use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-a-24.png) to select and login with selected Character.
 - Toggle the [Action Camera][action-camera] key ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) to enable Mouse cursor.
 - Enable `AoE Loot on Interact` and `Auto Loot Pickup`
 - Hold ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-lt-24.png) and use right joystick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to move around [Map](#map).
@@ -194,8 +200,7 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 ## Issues
 
 - Guild wars 2 can only toggle the [Action Camera][action-camera]. When game first starts you have to enable the [Action Camera][action-camera] by pressing and holding ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png)
-- Sometimes when you're in the [Map](#map) menu, it can activate the Mouse Menu action set. Press ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button to reactivate the [Map](#map) menu again.
-- Sometimes when you're in the [Map](#map) menu, it can activate the Action Camera Mode (Action Set). You'll have to exit and open [Map](#map) again.
+- When you open the [Map](#map), it doesn't activate the Map Action Set. Press ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button to activate the [Map](#map) Action Set.
 
 ---
 
