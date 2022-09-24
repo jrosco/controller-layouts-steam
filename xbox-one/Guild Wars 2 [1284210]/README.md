@@ -103,7 +103,7 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Up/Down | "" | "" |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting | "" | Target Nearest/Next Enemy |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Camera Zoom In | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
 
 ### Skills Bar No Modifier
 
@@ -146,7 +146,7 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 
 ### Map
 
-Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button
+Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button when on the Map screen.
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
