@@ -199,7 +199,7 @@ Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-ico
 
 ## Issues
 
-- Guild wars 2 can only toggle the [Action Camera][action-camera]. When game first starts you have to enable the [Action Camera][action-camera] by pressing and holding ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png)
+- Guild wars 2 can only toggle the [Action Camera][action-camera]. When you enter the game you'll have to enable the [Action Camera][action-camera] by pressing and holding ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) button.
 - When you open the [Map](#map), it doesn't activate the Map Action Set. Press ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button to activate the [Map](#map) Action Set.
 
 ---
