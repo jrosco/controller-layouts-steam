@@ -36,6 +36,7 @@ This config use the steam controller config "[guild wars 2] casual combat" VDF f
 |---|---|---|---|
 | Toggle Action Camera | insert | _true_ | [Action Camera](<https://wiki.guildwars2.com/wiki/Action_Camera_Mode>)
 | Mail Dialog | ctrl + shift + F1 | *false* | Custom Menu Mail dialog box
+| PvP Panel | ctrl + shift + F2 | _false_ | Custom Menu PvP Panel
 | Weapon Draw/Stow | ctrl + ` | _false_ | Holding ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-y-24.png) to Draw / Stow Weapon
 
 ### Mounts
