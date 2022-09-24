@@ -104,7 +104,6 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting |  | Target Nearest/Next Enemy |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Camera Zoom In |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
-
 ### Skills Bar No Modifier
 
 | Skill Bar 1 | Action | Skill Bar 2 | Action |
