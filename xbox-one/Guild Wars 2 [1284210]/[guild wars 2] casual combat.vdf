@@ -764,7 +764,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"mouse_button RIGHT, Select/Unselect"
+							"binding"		"mouse_button RIGHT, Target Select/Unselect"
 						}
 					}
 					"Double_Press"
