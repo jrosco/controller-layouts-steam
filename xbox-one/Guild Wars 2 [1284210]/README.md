@@ -82,28 +82,28 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Jump | "" | Left Mouse Button |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Dodge Roll | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Interact | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Weapon Swap |  Draw / Stow Weapon | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | Heal | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Default Weapon Skill / Trigger Ground Targeting / Left Mouse Click | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) | "" | [Activate Professions Bar 1](#profession-bar-modifier) | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | "" | [Activate Skills Bar 1](#skill-bar-modifier) | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | "" | [Activate Professions Bar 2](#profession-bar-modifier) | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | "" | [Activate Skills Bar 2](#skill-bar-modifier) | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Call Target | "" | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Previous Enemy | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Next Enemy | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Auto Run | "" | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Character Movement | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Camera Movement | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Up/Down | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting | "" | Target Nearest/Next Enemy |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Camera Zoom In | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out | "" | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Jump |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Dodge Roll |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Interact |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Weapon Swap |  Draw / Stow Weapon |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | Heal |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Default Weapon Skill / Trigger Ground Targeting / Left Mouse Click |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |  | [Activate Professions Bar 1](#profession-bar-modifier) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) |  | [Activate Skills Bar 1](#skill-bar-modifier) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) |  | [Activate Professions Bar 2](#profession-bar-modifier) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) |  | [Activate Skills Bar 2](#skill-bar-modifier) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Call Target |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Previous Enemy |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Next Enemy |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Auto Run |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Character Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Camera Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Up/Down |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Select Players, NPCs and Enemies / Cancel Ground Targeting |  | Target Nearest/Next Enemy |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Camera Zoom In |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Camera Zoom Out |  |  | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |
 
 ### Skills Bar No Modifier
 
@@ -139,51 +139,51 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit Custom Menus | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Game Menus Wheel / Build Templates Wheel | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Mounts Wheel / Equipment Templates Wheel | "" | "" |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit Custom Menus | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Game Menus Wheel / Build Templates Wheel |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Mounts Wheel / Equipment Templates Wheel |  |  |
 
 ### Map
 
-Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button
+Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-x-24.png) button when on the Map screen.
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) | "" | |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Personal Map Marker | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | "" | Map Alert Markers (use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to select ) | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send Waypoint ID to Chat | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click | Grab and Hold Map | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click | Grab and Hold Map | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Close Map](#map) | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Zoom Map In | "" | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Floor Down | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Floor Up | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Zoom Map Out | "" | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Mouse Movement | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Recenter Map to character location | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Recenter Map to character location | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Zoom Map In | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Zoom Map Out | "" | "" |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Personal Map Marker |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) |  | Map Alert Markers (use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to select ) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send Waypoint ID to Chat |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click | Grab and Hold Map |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click | Grab and Hold Map |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Close Map](#map) |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Zoom Map In |  |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Floor Down |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Floor Up |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Zoom Map Out |  |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Mouse Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Recenter Map to character location |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Recenter Map to character location |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Zoom Map In |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Zoom Map Out |  |  |
 
 ### Mouse Cursor Menu
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Modifier | Modifier Action |
 |---|---|---|---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) | "" | |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Item Dropdown Menu | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Enable Map Action Set (see [issues](#issues)) | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send selected item to Chat | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click | "" | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click | "" | "" | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-game-controller-48.png) | Directional Pad Movement | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Mouse/Map Movement | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Scroll Up | "" | "" |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Scroll Down | "" | "" |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Item Dropdown Menu |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Enable Map Action Set (see [issues](#issues)) |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send selected item to Chat |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click |  |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click |  |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-game-controller-48.png) | Directional Pad Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Mouse/Map Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Scroll Up |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Scroll Down |  |  |
 
 ## Tips and Tricks
 
