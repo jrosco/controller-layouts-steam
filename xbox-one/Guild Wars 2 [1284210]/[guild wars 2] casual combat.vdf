@@ -233,13 +233,6 @@
 							"repeat_rate"		"99"
 						}
 					}
-					"Double_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button LEFT"
-						}
-					}
 				}
 				"disabled_activators"
 				{
