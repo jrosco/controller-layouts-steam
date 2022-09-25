@@ -135,8 +135,8 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 
 | Skill Bar 1 | Action | Alternative Key
 |---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Ability 1 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Ability 2 |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Ability 1 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Ability 2 |
 
 ### Mouse Cursor Menu
 
