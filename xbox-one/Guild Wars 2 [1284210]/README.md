@@ -14,9 +14,10 @@ This config use the steam controller config "[guild wars 2] casual combat" VDF f
     - [Skills Bar No Modifier](#skills-bar-no-modifier)
     - [Skill Bar Modifier](#skill-bar-modifier)
     - [Profession Bar Modifier](#profession-bar-modifier)
+    - [Mount Skill Bar Modifier](#mount-skill-bar-modifier)
+    - [Mouse Cursor Menu](#mouse-cursor-menu)
     - [Custom Menus](#custom-menus)
     - [Map](#map)
-    - [Mouse Cursor Menu](#mouse-cursor-menu)
   - [Tips and Tricks](#tips-and-tricks)
   - [Issues](#issues)
 
@@ -90,11 +91,11 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) | Heal |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Default Weapon Skill / Trigger Ground Targeting / Left Mouse Click |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png) |  | [Activate Professions Bar 1](#profession-bar-modifier) |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) |  | [Activate Skills Bar 1](#skill-bar-modifier) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) |  | [Activate Skills Bar 1](#skill-bar-modifier) and [Activate Mount Skills Bar 1](#mount-skill-bar-modifier) |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png) |  | [Activate Professions Bar 2](#profession-bar-modifier) |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) |  | [Activate Skills Bar 2](#skill-bar-modifier) |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Activate Custom Menu](#custom-menus) | Escape / Exit menu | |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Open Map](#map) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Call Target |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Previous Enemy |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Next Enemy |  |  |
@@ -130,9 +131,33 @@ Required for the Hero Templates wheel in the [Custom Menus](#custom-menus)
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Profession 3 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Profession 7 |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Profession 4 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Special |
 
+### Mount Skill Bar Modifier
+
+| Skill Bar 1 | Action | Alternative Key
+|---|---|---|
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Ability 1 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lb-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Mount Ability 2 |
+
+### Mouse Cursor Menu
+
+| Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
+|---|---|---|---|---|---|
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Item Dropdown Menu |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Enable Map Action Set (see [issues](#issues)) |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send selected item to Chat |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click |  |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click |  |  |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Activate Custom Menu](#custom-menus) | Escape / Exit menu | |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Open Map](#map) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-game-controller-48.png) | Directional Pad Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Mouse/Map Movement |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Scroll Up |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Scroll Down |  |  |
+
 ### Custom Menus
 
-Pressing the ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) key will activate the custom menus action set. Rotating the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) will bring up a Menu wheel for your game menus and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) will bring up your mounts wheel.
+Pressing the ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-menu-24.png) key will activate the custom menus action set. Rotating the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) will bring up a Menu wheel for your game menus and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) will bring up your mounts wheel.
 
 On the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) there is a sub-menu for your hero templates, entering this sub-menu you can rotate the left side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-l-24.png) to bring up the build templates wheel and rotating the right side stick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) will bring up the equipment templates wheel.
 
@@ -140,8 +165,8 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 
 | Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
 |---|---|---|---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit Custom Menus | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | Exit Custom Menus | Escape / Exit menu | |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Open Map](#map) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Game Menus Wheel / Build Templates Wheel |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Mounts Wheel / Equipment Templates Wheel |  |  |
 
@@ -157,8 +182,8 @@ Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-ico
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send Waypoint ID to Chat |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click | Grab and Hold Map |  |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click | Grab and Hold Map |  |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | Exit | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Close Map](#map) |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | Exit/Escape | |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Close Map](#map) |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Zoom Map In |  |  |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-left-48.png) | Floor Down |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-right-48.png) | Floor Up |  |  |
@@ -168,23 +193,6 @@ Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-ico
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-natural-user-interface-2-48.png) | Recenter Map to character location |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Zoom Map In |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Zoom Map Out |  |  |
-
-### Mouse Cursor Menu
-
-| Button Mapping | Regular Press | Hold Press | Double Press | Mode Shift Button | Mode Shift Action |
-|---|---|---|---|---|---|
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Item Dropdown Menu |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Enable Map Action Set (see [issues](#issues)) |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send selected item to Chat |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click |  |  |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click |  |  |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Activate Custom Menu](#custom-menus) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-menu-48.png) | [Open Map](#map) | Escape / Exit menu |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-game-controller-48.png) | Directional Pad Movement |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Mouse/Map Movement |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Scroll Up |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png)![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Scroll Down |  |  |
 
 ## Tips and Tricks
 

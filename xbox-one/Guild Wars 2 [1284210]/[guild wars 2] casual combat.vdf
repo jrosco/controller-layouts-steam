@@ -1176,6 +1176,22 @@
 		"description"		""
 		"inputs"
 		{
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press C, Mount Ability 2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -1388,6 +1404,22 @@
 		"description"		""
 		"inputs"
 		{
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press V, Mount Ability 1"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -2946,6 +2978,27 @@
 				{
 				}
 			}
+			"touch_menu_button_10"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press K, Pet Management, ghost_035_magic_0365.png #232323 #ad0000"
+							"binding"		"controller_action CHANGE_PRESET 2 1 0, Pet Management, ghost_035_magic_0365.png #232323 #ad0000"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 			"touch_menu_button_18"
 			{
 				"activators"
@@ -4019,6 +4072,8 @@
 		"settings"
 		{
 			"layer"		"1"
+			"requires_click"		"0"
+			"haptic_intensity_override"		"0"
 		}
 	}
 	"group"
@@ -4654,16 +4709,14 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press M, Map"
-							"binding"		"controller_action CHANGE_PRESET 4 1 0, Map"
+							"binding"		"controller_action CHANGE_PRESET 3 1 0, Custom Menus"
 						}
 					}
 					"Long_Press"
 					{
 						"bindings"
 						{
-							"binding"		"key_press ESCAPE, Hold Escape"
-							"binding"		"controller_action CHANGE_PRESET 2 1 0, Hold Escape"
+							"binding"		"key_press ESCAPE, Escape Hold"
 						}
 					}
 				}
@@ -4679,14 +4732,15 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action CHANGE_PRESET 3 1 0, Custom Menus"
+							"binding"		"key_press M, Map"
+							"binding"		"controller_action CHANGE_PRESET 4 1 0, Map"
 						}
 					}
 					"Long_Press"
 					{
 						"bindings"
 						{
-							"binding"		"key_press INSERT, HOLD Action Camera (Toggle)"
+							"binding"		"key_press INSERT, HOLD Action Camera Toggle"
 						}
 					}
 				}
@@ -4835,8 +4889,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press M, Map"
-							"binding"		"controller_action CHANGE_PRESET 4 1 0, Map"
+							"binding"		"controller_action CHANGE_PRESET 3 1 0, Custom Menus"
 						}
 					}
 					"Long_Press"
@@ -4859,14 +4912,15 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action CHANGE_PRESET 3 1 0"
+							"binding"		"key_press M, Map"
+							"binding"		"controller_action CHANGE_PRESET 4 1 0, Map"
 						}
 					}
 					"Long_Press"
 					{
 						"bindings"
 						{
-							"binding"		"key_press INSERT, Action Camera Toggle"
+							"binding"		"key_press INSERT, HOLD Action Camera Toggle"
 						}
 					}
 				}
@@ -5068,8 +5122,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press M, Map"
-							"binding"		"controller_action CHANGE_PRESET 4 1 0, Map"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, Exit"
 						}
 						"settings"
 						{
@@ -5097,14 +5150,15 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action CHANGE_PRESET 1 1 0, Exit"
+							"binding"		"key_press M, Map"
+							"binding"		"controller_action CHANGE_PRESET 4 1 0, Map"
 						}
 					}
 					"Long_Press"
 					{
 						"bindings"
 						{
-							"binding"		"key_press INSERT, Action Camera Toggle"
+							"binding"		"key_press INSERT, HOLD Action Camera Toggle"
 						}
 					}
 				}
@@ -5159,24 +5213,14 @@
 						"bindings"
 						{
 							"binding"		"key_press ESCAPE, Close Map"
+							"binding"		"controller_action remove_layer 11 1 0, Close Map"
 						}
 					}
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action remove_layer 11 1 0"
-						}
-					}
-					"Full_Press"
+					"release"
 					{
 						"bindings"
 						{
 							"binding"		"controller_action CHANGE_PRESET 1 1 0"
-						}
-						"settings"
-						{
-							"delay_start"		"1000"
 						}
 					}
 				}
@@ -5192,14 +5236,15 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action CHANGE_PRESET 1 1 0, Exit"
+							"binding"		"key_press M, Close Map"
+							"binding"		"controller_action remove_layer 11 1 0, Close Map"
 						}
 					}
-					"Long_Press"
+					"release"
 					{
 						"bindings"
 						{
-							"binding"		"key_press INSERT, Action Camera Toggle"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
 						}
 					}
 				}
@@ -5290,7 +5335,7 @@
 		{
 			"101"		"switch active"
 			"102"		"right_joystick active"
-			"106"		"dpad active"
+			"106"		"dpad inactive"
 			"98"		"button_diamond inactive"
 			"103"		"joystick active"
 			"99"		"left_trigger active"
