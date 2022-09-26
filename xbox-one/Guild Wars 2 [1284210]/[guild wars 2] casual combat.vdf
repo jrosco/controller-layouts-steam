@@ -442,7 +442,7 @@
 		}
 		"settings"
 		{
-			"sensitivity"		"145"
+			"sensitivity"		"150"
 			"doubetap_max_duration"		"320"
 		}
 	}
@@ -812,7 +812,7 @@
 		"settings"
 		{
 			"output_joystick"		"2"
-			"sensitivity"		"109"
+			"sensitivity"		"100"
 		}
 	}
 	"group"
@@ -1134,7 +1134,7 @@
 		{
 			"curve_exponent"		"4"
 			"output_joystick"		"2"
-			"sensitivity"		"77"
+			"sensitivity"		"100"
 		}
 	}
 	"group"
@@ -1165,7 +1165,7 @@
 		"settings"
 		{
 			"output_joystick"		"2"
-			"sensitivity"		"117"
+			"sensitivity"		"100"
 		}
 	}
 	"group"
@@ -3903,7 +3903,7 @@
 		"settings"
 		{
 			"output_joystick"		"2"
-			"sensitivity"		"101"
+			"sensitivity"		"100"
 		}
 	}
 	"group"
@@ -3918,7 +3918,7 @@
 		"settings"
 		{
 			"output_joystick"		"2"
-			"sensitivity"		"101"
+			"sensitivity"		"100"
 		}
 	}
 	"group"
