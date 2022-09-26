@@ -3163,6 +3163,54 @@
 		"description"		""
 		"inputs"
 		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Start_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press LEFT_CONTROL, Hide UI"
+							"binding"		"key_press LEFT_SHIFT, Hide UI"
+							"binding"		"key_press H, Hide UI"
+						}
+					}
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Start_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action SCREENSHOT, Screenshot"
+						}
+					}
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -4072,8 +4120,6 @@
 		"settings"
 		{
 			"layer"		"1"
-			"requires_click"		"0"
-			"haptic_intensity_override"		"0"
 		}
 	}
 	"group"
@@ -5335,7 +5381,7 @@
 		{
 			"101"		"switch active"
 			"102"		"right_joystick active"
-			"106"		"dpad inactive"
+			"106"		"dpad active"
 			"98"		"button_diamond inactive"
 			"103"		"joystick active"
 			"99"		"left_trigger active"

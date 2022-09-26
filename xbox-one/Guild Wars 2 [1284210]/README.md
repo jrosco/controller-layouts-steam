@@ -169,6 +169,8 @@ Whenever entering game menus like "Inventory", "Hero" etc you'll drop into the [
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-windows-48.png) | [Open Map](#map) | [Toggle Action Camera][action-camera] _Requires hotkey "insert" as the shortcut_ |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-r-48.png) | Game Menus Wheel / Build Templates Wheel |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-l-48.png) | Mounts Wheel / Equipment Templates Wheel |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-up-48.png) | Hide UI |  |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-chevron-down-48.png) | Screenshot |  |  |
 
 ### Map
 
