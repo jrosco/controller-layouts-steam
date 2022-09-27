@@ -2307,7 +2307,7 @@
 			{
 				"activators"
 				{
-					"Full_Press"
+					"release"
 					{
 						"bindings"
 						{
@@ -2324,7 +2324,7 @@
 			{
 				"activators"
 				{
-					"Full_Press"
+					"release"
 					{
 						"bindings"
 						{
@@ -2341,7 +2341,7 @@
 			{
 				"activators"
 				{
-					"Full_Press"
+					"release"
 					{
 						"bindings"
 						{
@@ -2358,7 +2358,7 @@
 			{
 				"activators"
 				{
-					"Full_Press"
+					"release"
 					{
 						"bindings"
 						{
