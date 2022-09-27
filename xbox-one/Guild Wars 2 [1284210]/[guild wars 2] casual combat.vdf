@@ -2303,6 +2303,75 @@
 		"description"		""
 		"inputs"
 		{
+			"button_a"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press H, Quick Hero"
+							"binding"		"controller_action CHANGE_PRESET 2 1 0, Quick Hero"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_b"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press Y, Quick Contacts"
+							"binding"		"controller_action CHANGE_PRESET 2 1 0, Quick Contacts"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_x"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press O, Quick Trade"
+							"binding"		"controller_action CHANGE_PRESET 2 1 0, Quick Trade"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_y"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press I, Quick Inventory"
+							"binding"		"key_press I, Quick Inventory"
+							"binding"		"controller_action CHANGE_PRESET 2 1 0, Quick Inventory"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 	}
 	"group"
@@ -2361,8 +2430,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Raptor, ghost_035_magic_0331.png #232323 #0045ad"
 							"binding"		"key_press LEFT_CONTROL, Raptor, ghost_035_magic_0331.png #232323 #0045ad"
+							"binding"		"key_press LEFT_SHIFT, Raptor, ghost_035_magic_0331.png #232323 #0045ad"
 							"binding"		"key_press Z, Raptor, ghost_035_magic_0331.png #232323 #0045ad"
 						}
 						"settings"
@@ -2394,8 +2463,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Springer, ghost_035_magic_0331.png #232323 #00adad"
 							"binding"		"key_press LEFT_CONTROL, Springer, ghost_035_magic_0331.png #232323 #00adad"
+							"binding"		"key_press LEFT_SHIFT, Springer, ghost_035_magic_0331.png #232323 #00adad"
 							"binding"		"key_press X, Springer, ghost_035_magic_0331.png #232323 #00adad"
 						}
 						"settings"
@@ -2427,8 +2496,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Skimmer, ghost_035_magic_0331.png #232323 #33ad69"
 							"binding"		"key_press LEFT_CONTROL, Skimmer, ghost_035_magic_0331.png #232323 #33ad69"
+							"binding"		"key_press LEFT_SHIFT, Skimmer, ghost_035_magic_0331.png #232323 #33ad69"
 							"binding"		"key_press C, Skimmer, ghost_035_magic_0331.png #232323 #33ad69"
 						}
 						"settings"
@@ -2460,8 +2529,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Jackel, ghost_035_magic_0331.png #232323 #00ad3d"
 							"binding"		"key_press LEFT_CONTROL, Jackel, ghost_035_magic_0331.png #232323 #00ad3d"
+							"binding"		"key_press LEFT_SHIFT, Jackel, ghost_035_magic_0331.png #232323 #00ad3d"
 							"binding"		"key_press V, Jackel, ghost_035_magic_0331.png #232323 #00ad3d"
 						}
 						"settings"
@@ -2493,8 +2562,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Griffon, ghost_035_magic_0331.png #232323 #ad5d00"
 							"binding"		"key_press LEFT_CONTROL, Griffon, ghost_035_magic_0331.png #232323 #ad5d00"
+							"binding"		"key_press LEFT_SHIFT, Griffon, ghost_035_magic_0331.png #232323 #ad5d00"
 							"binding"		"key_press B, Griffon, ghost_035_magic_0331.png #232323 #ad5d00"
 						}
 						"settings"
@@ -2526,8 +2595,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Roller Beetle, ghost_035_magic_0331.png #232323 #ad0000"
 							"binding"		"key_press LEFT_CONTROL, Roller Beetle, ghost_035_magic_0331.png #232323 #ad0000"
+							"binding"		"key_press LEFT_SHIFT, Roller Beetle, ghost_035_magic_0331.png #232323 #ad0000"
 							"binding"		"key_press N, Roller Beetle, ghost_035_magic_0331.png #232323 #ad0000"
 						}
 						"settings"
@@ -2559,8 +2628,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Skyscale, ghost_035_magic_0331.png #232323 #ad0051"
 							"binding"		"key_press LEFT_SHIFT, Skyscale, ghost_035_magic_0331.png #232323 #ad0051"
+							"binding"		"key_press LEFT_CONTROL, Skyscale, ghost_035_magic_0331.png #232323 #ad0051"
 							"binding"		"key_press M, Skyscale, ghost_035_magic_0331.png #232323 #ad0051"
 						}
 						"settings"
@@ -2592,8 +2661,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Siege Turtle, ghost_035_magic_0331.png #232323 #6800ad"
 							"binding"		"key_press LEFT_CONTROL, Siege Turtle, ghost_035_magic_0331.png #232323 #6800ad"
+							"binding"		"key_press LEFT_SHIFT, Siege Turtle, ghost_035_magic_0331.png #232323 #6800ad"
 							"binding"		"key_press L, Siege Turtle, ghost_035_magic_0331.png #232323 #6800ad"
 						}
 						"settings"
@@ -2827,8 +2896,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, Mail, ghost_110_social_0150.png #232323 #00ad3d"
 							"binding"		"key_press LEFT_CONTROL, Mail, ghost_110_social_0150.png #232323 #00ad3d"
+							"binding"		"key_press LEFT_SHIFT, Mail, ghost_110_social_0150.png #232323 #00ad3d"
 							"binding"		"key_press F1, Mail, ghost_110_social_0150.png #232323 #00ad3d"
 						}
 						"settings"
@@ -2922,8 +2991,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, PvP, ghost_040_act_0050.png #232323 #ad007f"
 							"binding"		"key_press LEFT_CONTROL, PvP, ghost_040_act_0050.png #232323 #ad007f"
+							"binding"		"key_press LEFT_SHIFT, PvP, ghost_040_act_0050.png #232323 #ad007f"
 							"binding"		"key_press F2, PvP, ghost_040_act_0050.png #232323 #ad007f"
 						}
 						"settings"
@@ -3171,8 +3240,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Hide UI"
 							"binding"		"key_press LEFT_SHIFT, Hide UI"
+							"binding"		"key_press LEFT_CONTROL, Hide UI"
 							"binding"		"key_press H, Hide UI"
 						}
 					}
@@ -4138,8 +4207,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_ALT, Equip Template 1, ghost_040_act_0050.png #232323 #33ad69"
 							"binding"		"key_press LEFT_CONTROL, Equip Template 1, ghost_040_act_0050.png #232323 #33ad69"
+							"binding"		"key_press LEFT_ALT, Equip Template 1, ghost_040_act_0050.png #232323 #33ad69"
 							"binding"		"key_press 1, Equip Template 1, ghost_040_act_0050.png #232323 #33ad69"
 						}
 						"settings"
@@ -4160,8 +4229,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_ALT, Equip Template 2, ghost_040_act_0040.png #232323 #48b119"
 							"binding"		"key_press LEFT_CONTROL, Equip Template 2, ghost_040_act_0040.png #232323 #48b119"
+							"binding"		"key_press LEFT_ALT, Equip Template 2, ghost_040_act_0040.png #232323 #48b119"
 							"binding"		"key_press 2, Equip Template 2, ghost_040_act_0040.png #232323 #48b119"
 						}
 						"settings"
@@ -4182,8 +4251,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_ALT, Equip Template 3, ghost_040_act_0050.png #232323 #96ad00"
 							"binding"		"key_press LEFT_CONTROL, Equip Template 3, ghost_040_act_0050.png #232323 #96ad00"
+							"binding"		"key_press LEFT_ALT, Equip Template 3, ghost_040_act_0050.png #232323 #96ad00"
 							"binding"		"key_press 3, Equip Template 3, ghost_040_act_0050.png #232323 #96ad00"
 						}
 						"settings"
@@ -4204,8 +4273,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Equip Template 4, ghost_040_act_0040.png #232323 #ad0000"
 							"binding"		"key_press LEFT_ALT, Equip Template 4, ghost_040_act_0040.png #232323 #ad0000"
+							"binding"		"key_press LEFT_CONTROL, Equip Template 4, ghost_040_act_0040.png #232323 #ad0000"
 							"binding"		"key_press 4, Equip Template 4, ghost_040_act_0040.png #232323 #ad0000"
 						}
 						"settings"
@@ -4226,8 +4295,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Equip Template 5, ghost_040_act_0050.png #232323 #ad0051"
 							"binding"		"key_press LEFT_ALT, Equip Template 5, ghost_040_act_0050.png #232323 #ad0051"
+							"binding"		"key_press LEFT_CONTROL, Equip Template 5, ghost_040_act_0050.png #232323 #ad0051"
 							"binding"		"key_press 5, Equip Template 5, ghost_040_act_0050.png #232323 #ad0051"
 						}
 						"settings"
@@ -4248,8 +4317,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Equip Template 6, ghost_040_act_0040.png #232323 #ad00ad"
 							"binding"		"key_press LEFT_ALT, Equip Template 6, ghost_040_act_0040.png #232323 #ad00ad"
+							"binding"		"key_press LEFT_CONTROL, Equip Template 6, ghost_040_act_0040.png #232323 #ad00ad"
 							"binding"		"key_press 6, Equip Template 6, ghost_040_act_0040.png #232323 #ad00ad"
 						}
 						"settings"
@@ -4270,8 +4339,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Equip Template 7, ghost_040_act_0050.png #232323 #4800ad"
 							"binding"		"key_press LEFT_ALT, Equip Template 7, ghost_040_act_0050.png #232323 #4800ad"
+							"binding"		"key_press LEFT_CONTROL, Equip Template 7, ghost_040_act_0050.png #232323 #4800ad"
 							"binding"		"key_press 7, Equip Template 7, ghost_040_act_0050.png #232323 #4800ad"
 						}
 						"settings"
@@ -4292,8 +4361,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, Equip Template 8, ghost_040_act_0040.png #232323 #00adad"
 							"binding"		"key_press LEFT_ALT, Equip Template 8, ghost_040_act_0040.png #232323 #00adad"
+							"binding"		"key_press LEFT_CONTROL, Equip Template 8, ghost_040_act_0040.png #232323 #00adad"
 							"binding"		"key_press 8, Equip Template 8, ghost_040_act_0040.png #232323 #00adad"
 						}
 						"settings"
@@ -5382,7 +5451,7 @@
 			"101"		"switch active"
 			"102"		"right_joystick active"
 			"106"		"dpad active"
-			"98"		"button_diamond inactive"
+			"98"		"button_diamond active"
 			"103"		"joystick active"
 			"99"		"left_trigger active"
 			"100"		"right_trigger active"
