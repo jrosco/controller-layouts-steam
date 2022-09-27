@@ -1,3 +1,9 @@
+---
+permalink: /gw2/
+---
+
+[\[home\]](/)
+
 # Guild Wars 2 Xbox One Controller (Steam)
 
 This config use the steam controller config "[guild wars 2] casual combat" VDF file.
