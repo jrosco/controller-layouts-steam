@@ -3,7 +3,7 @@
 	"version"		"3"
 	"revision"		"1"
 	"title"		"[Guild Wars 2] Casual Combat - v1.0"
-	"description"		"!!IMPORTANT!! Assign [insert] key in Gw2 settings to toggle the Action Camera, enable Autotargeting, use default key bindings. Hold select key to toggle the mouse/action cameras. See https://abxy.one/gw2/"
+	"description"		"!!IMPORTANT!! Assign [insert] key in Gw2 settings to toggle the Action Camera, enable Autotargeting, use default key bindings. Hold the view button to toggle the mouse/action cameras. See https://bit.ly/3UMDZFk"
 	"creator"		"76561198052264326"
 	"progenitor"		""
 	"url"		"https://github.com/jrosco/controller-layouts-steam/tree/main/xbox-one/"

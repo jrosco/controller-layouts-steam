@@ -32,6 +32,7 @@ This config use the steam controller config "[guild wars 2] casual combat" VDF f
 **Action Camera Key assignment is very important for this controller scheme to work**
 
 - **MUST** have the [Action Camera][action-camera] shortcut set to the "insert" key
+  - Once key is assigned, when you enter the game you’ll have to enable the Action Camera by pressing and holding ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) button.
 - Use default [keybindings][default_controls]
 - Enable Autotargeting
 
@@ -209,7 +210,7 @@ Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-ico
 ## Tips and Tricks
 
 - When you login, on the Character selection screen use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-a-24.png) to select and login with selected Character.
-- Toggle the [Action Camera][action-camera] key ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) to enable Mouse cursor.
+- Hold and Toggle the [Action Camera][action-camera] key ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-windows-24.png) to enable Mouse cursor.
 - Enable `AoE Loot on Interact` and `Auto Loot Pickup`
 - Hold ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-lt-24.png) and use right joystick ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to move around [Map](#map).
 - When in Inventory [Custom Menu](#custom-menus) use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-y-24.png) to send item to chat.
