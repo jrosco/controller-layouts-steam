@@ -6,7 +6,9 @@ permalink: /gw2/
 
 # Guild Wars 2 Xbox One Controller (Steam)
 
-This config use the steam controller config "[guild wars 2] casual combat" VDF file.
+This config use the steam controller config "[guild wars 2] casual combat" VDF file. 
+
+Here is the link to Steam controller layout [steam://controllerconfig/1284210/2869092851](steam://controllerconfig/1284210/2869092851) open this in your web browser and if you have steam client installed and running it should open in the steam client controller config window.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 - [Guild Wars 2 Xbox One Controller (Steam)](#guild-wars-2-xbox-one-controller-steam)
