@@ -191,7 +191,7 @@ Activate the Map Action Set by pressing ![missing image](../../imgs/xbox-one-ico
 |---|---|---|---|---|---|
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-a-48.png) | Enter (Left Mouse Click) |  | |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-b-48.png) | Personal Map Marker |  |  |
-| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) |  | Map Alert Markers (use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to select ) |  |
+| ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-x-48.png) | Activate Map Key Actions | Map Alert Markers (use ![missing image](../../imgs/xbox-one-icons/24px/icons8-xbox-r-24.png) to select ) |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-y-48.png) | Send Waypoint ID to Chat |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-lt-48.png) | Left Mouse Click | Grab and Hold Map |  |  |  |
 | ![missing image](../../imgs/xbox-one-icons/48px/icons8-xbox-rt-48.png) | Right Mouse Click | Grab and Hold Map |  |  |  |
