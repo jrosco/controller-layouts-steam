@@ -773,10 +773,6 @@
 						{
 							"binding"		"key_press TAB"
 						}
-						"settings"
-						{
-							"double_tap_time"		"466"
-						}
 					}
 				}
 				"disabled_activators"
