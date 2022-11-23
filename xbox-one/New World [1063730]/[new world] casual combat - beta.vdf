@@ -547,13 +547,6 @@
 							"double_tap_time"		"181"
 						}
 					}
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
-						}
-					}
 				}
 				"disabled_activators"
 				{
@@ -729,7 +722,7 @@
 		"settings"
 		{
 			"requires_click"		"0"
-			"edge_binding_radius"		"24995"
+			"edge_binding_radius"		"20999"
 			"edge_binding_invert"		"1"
 			"overlap_region"		"4001"
 		}
@@ -890,10 +883,10 @@
 		{
 			"curve_exponent"		"4"
 			"output_joystick"		"2"
-			"deadzone_inner_radius"		"3998"
-			"deadzone_outer_radius"		"25596"
+			"deadzone_inner_radius"		"3890"
+			"deadzone_outer_radius"		"25312"
 			"sensitivity"		"287"
-			"sensitivity_vert_scale"		"73"
+			"sensitivity_vert_scale"		"59"
 		}
 	}
 	"group"
@@ -912,7 +905,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press 4, Consume4"
+							"binding"		"key_press 5, Consume5"
 						}
 					}
 					"Long_Press"
@@ -935,7 +928,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press 5, Consume5"
+							"binding"		"key_press 4, Consume4"
 						}
 						"settings"
 						{
@@ -1616,6 +1609,38 @@
 		"description"		""
 		"inputs"
 		{
+			"button_x"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press Q, Weapon 1"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_y"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press F, Weapon 3"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -2689,13 +2714,6 @@
 							"binding"		"key_press V, Push to Talk"
 						}
 					}
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action CHANGE_PRESET 1 1 0"
-						}
-					}
 				}
 				"disabled_activators"
 				{
@@ -2744,7 +2762,6 @@
 						"bindings"
 						{
 							"binding"		"key_press U, Toggle PvP"
-							"binding"		"controller_action CHANGE_PRESET 1 1 0, Toggle PvP"
 						}
 					}
 					"Long_Press"
@@ -2835,6 +2852,54 @@
 		"description"		""
 		"inputs"
 		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press B, Show War Tutorial"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press L, Army Window"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press N, Scoreboard"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -2996,10 +3061,9 @@
 		}
 		"settings"
 		{
-			"touch_menu_opacity"		"89"
 			"touch_menu_position_x"		"48"
 			"touch_menu_position_y"		"48"
-			"touch_menu_scale"		"122"
+			"touch_menu_scale"		"133"
 			"touch_menu_show_labels"		"0"
 			"virtualmenu_center_bound"		"1"
 		}
@@ -3258,10 +3322,138 @@
 		"description"		""
 		"inputs"
 		{
+			"touch_menu_button_0"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"touch_menu_button_1"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press B, War Tutorial, ghost_030_inv_0312.png"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, War Tutorial, ghost_030_inv_0312.png  "
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"touch_menu_button_2"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press L, Army Window, ghost_050_menu_0120.png"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, Army Window, ghost_050_menu_0120.png  "
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"touch_menu_button_3"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press N, Scoreboard, ghost_050_menu_0050.png"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, Scoreboard, ghost_050_menu_0050.png  "
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"touch_menu_button_20"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, Back, ghost_050_menu_0304.png  "
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
+			"touch_menu_opacity"		"91"
+			"touch_menu_position_x"		"48"
+			"touch_menu_position_y"		"48"
+			"touch_menu_scale"		"134"
 			"touch_menu_show_labels"		"0"
+			"virtualmenu_center_bound"		"1"
 		}
 	}
 	"group"
@@ -3373,10 +3565,12 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action empty_binding"
+							"binding"		"mouse_wheel SCROLL_DOWN"
 						}
 						"settings"
 						{
+							"hold_repeats"		"1"
+							"repeat_rate"		"224"
 							"haptic_intensity"		"2"
 						}
 					}
@@ -3429,10 +3623,12 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action empty_binding"
+							"binding"		"mouse_wheel SCROLL_UP"
 						}
 						"settings"
 						{
+							"hold_repeats"		"1"
+							"repeat_rate"		"199"
 							"haptic_intensity"		"2"
 						}
 					}
@@ -4285,7 +4481,17 @@
 						"bindings"
 						{
 							"binding"		"key_press TAB, Inventory"
-							"binding"		"controller_action CHANGE_PRESET 3 1 0, Inventory"
+						}
+					}
+					"Long_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 4 1 0"
+						}
+						"settings"
+						{
+							"long_press_time"		"180"
 						}
 					}
 				}
@@ -4340,7 +4546,7 @@
 						}
 						"settings"
 						{
-							"long_press_time"		"170"
+							"long_press_time"		"180"
 						}
 					}
 				}
@@ -4357,7 +4563,6 @@
 						"bindings"
 						{
 							"binding"		"key_press R, RB Weapon 2"
-							"binding"		"controller_action hold_layer 14 1 0, RB Weapon 2"
 						}
 					}
 					"chord"
@@ -4369,6 +4574,18 @@
 						"settings"
 						{
 							"chord_button"		"1"
+							"interruptable"		"0"
+						}
+					}
+					"Long_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action hold_layer 12 1 0"
+						}
+						"settings"
+						{
+							"long_press_time"		"180"
 						}
 					}
 				}
@@ -4508,13 +4725,6 @@
 							"binding"		"controller_action CHANGE_PRESET 3 1 0, Inventory"
 						}
 					}
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
-						}
-					}
 				}
 				"disabled_activators"
 				{
@@ -4531,12 +4741,16 @@
 							"binding"		"key_press ESCAPE, Exit"
 							"binding"		"controller_action CHANGE_PRESET 1 1 0, Exit"
 						}
+						"settings"
+						{
+							"delay_start"		"101"
+						}
 					}
-					"release"
+					"Start_Press"
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4608,6 +4822,22 @@
 		"description"		""
 		"inputs"
 		{
+			"right_bumper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press R, Weapon 2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -4662,7 +4892,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4710,7 +4940,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4772,7 +5002,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4820,7 +5050,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4882,7 +5112,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4930,7 +5160,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -4992,7 +5222,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -5040,7 +5270,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -5082,7 +5312,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -5106,7 +5336,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"controller_action MOUSE_POSITION 0 0 0"
+							"binding"		"controller_action MOUSE_POSITION 16384 16384 0"
 						}
 					}
 				}
@@ -5187,6 +5417,38 @@
 		"description"		""
 		"inputs"
 		{
+			"button_escape"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_menu"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action CHANGE_PRESET 1 1 0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 			"right_bumper"
 			{
 				"activators"
@@ -5301,22 +5563,6 @@
 		"description"		""
 		"inputs"
 		{
-			"left_bumper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action empty_binding"
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
 		}
 		"settings"
 		{
@@ -5486,12 +5732,12 @@
 			"131"		"right_joystick active"
 			"114"		"joystick inactive"
 			"115"		"joystick inactive modeshift"
-			"172"		"joystick inactive"
+			"172"		"joystick active"
 			"226"		"joystick active modeshift"
 			"118"		"button_diamond active"
 			"119"		"left_trigger active"
 			"120"		"right_trigger active"
-			"121"		"dpad inactive"
+			"121"		"dpad active"
 			"223"		"dpad inactive"
 			"224"		"dpad inactive"
 		}
