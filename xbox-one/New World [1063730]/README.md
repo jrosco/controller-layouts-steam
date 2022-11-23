@@ -5,7 +5,7 @@
 Active Swap Weapons
 
 ```bash
-Key = ~
+Key = `
 ```
 
 Free Look - Due to default key LALT also used with weapon swap modifier, we have to change the "free look" key
