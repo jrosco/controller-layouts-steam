@@ -121,6 +121,13 @@
 			"set_layer"		"1"
 			"parent_set_name"		"Preset_1000003"
 		}
+		"Preset_1000016"
+		{
+			"title"		"Move Slider"
+			"legacy_set"		"1"
+			"set_layer"		"1"
+			"parent_set_name"		"Preset_1000012"
+		}
 	}
 	"localization"
 	{
@@ -2284,6 +2291,7 @@
 						"bindings"
 						{
 							"binding"		"mouse_button LEFT"
+							"binding"		"controller_action hold_layer 17 1 0"
 						}
 						"settings"
 						{
@@ -4485,6 +4493,132 @@
 	}
 	"group"
 	{
+		"id"		"228"
+		"mode"		"joystick_mouse"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"229"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"230"
+		"mode"		"four_buttons"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"231"
+		"mode"		"trigger"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"232"
+		"mode"		"trigger"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"233"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action mouse_delta 1 0"
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"repeat_rate"		"109"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action mouse_delta -1 0"
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"repeat_rate"		"109"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
 		"id"		"10"
 		"mode"		"switches"
 		"name"		""
@@ -5690,6 +5824,20 @@
 			"layer"		"1"
 		}
 	}
+	"group"
+	{
+		"id"		"227"
+		"mode"		"switches"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
 	"preset"
 	{
 		"id"		"0"
@@ -5957,6 +6105,21 @@
 			"219"		"left_trigger active"
 			"220"		"right_trigger active"
 			"221"		"dpad active"
+		}
+	}
+	"preset"
+	{
+		"id"		"16"
+		"name"		"Preset_1000016"
+		"group_source_bindings"
+		{
+			"227"		"switch active"
+			"228"		"right_joystick active"
+			"229"		"joystick active"
+			"230"		"button_diamond active"
+			"231"		"left_trigger active"
+			"232"		"right_trigger active"
+			"233"		"dpad active"
 		}
 	}
 	"settings"
