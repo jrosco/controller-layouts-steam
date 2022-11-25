@@ -2943,8 +2943,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press U, PvP Enable/Disable, ghost_040_act_0050.png #232323 #0074ad"
-							"binding"		"controller_action CHANGE_PRESET 1 1 0, PvP Enable/Disable, ghost_040_act_0050.png #232323 #0074ad"
+							"binding"		"key_press U, PvP Enable/Disable, ghost_040_act_0050.png #232323 #ad0000"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, PvP Enable/Disable, ghost_040_act_0050.png #232323 #ad0000"
 						}
 					}
 				}
@@ -3005,8 +3005,29 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press H, Social Actions, ghost_050_menu_0120.png #232323 #48b119"
-							"binding"		"controller_action CHANGE_PRESET 1 1 0, Social Actions, ghost_050_menu_0120.png #232323 #48b119"
+							"binding"		"key_press H, Social Actions, ghost_050_menu_0120.png #232323 #00adad"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, Social Actions, ghost_050_menu_0120.png #232323 #00adad"
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"touch_menu_button_5"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press N, Pay Upkeep, ghost_045_move_0020.png #232323 #ad3a00"
+							"binding"		"controller_action CHANGE_PRESET 1 1 0, Pay Upkeep, ghost_045_move_0020.png #232323 #ad3a00"
 						}
 						"settings"
 						{
@@ -3065,7 +3086,6 @@
 			"touch_menu_position_y"		"48"
 			"touch_menu_scale"		"133"
 			"touch_menu_show_labels"		"0"
-			"virtualmenu_center_bound"		"1"
 		}
 	}
 	"group"
@@ -3453,7 +3473,6 @@
 			"touch_menu_position_y"		"48"
 			"touch_menu_scale"		"134"
 			"touch_menu_show_labels"		"0"
-			"virtualmenu_center_bound"		"1"
 		}
 	}
 	"group"
